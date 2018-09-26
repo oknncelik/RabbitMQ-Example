@@ -1,0 +1,6 @@
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\bin\Debug\Global.dll
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\bin\Debug\Global.pdb
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.csprojAssemblyReference.cache
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.csproj.CoreCompileInputs.cache
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.dll
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.pdb
