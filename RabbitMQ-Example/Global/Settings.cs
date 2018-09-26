@@ -2,6 +2,8 @@
 {
     public static class Settings
     {
+        public static string QueueName = "Examp";
+
         public static FactorySettings GetFactorySettings()
         {
             return new FactorySettings()

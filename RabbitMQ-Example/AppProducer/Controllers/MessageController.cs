@@ -16,7 +16,7 @@ namespace AppProducer.Controllers
         [HttpPost]
         public ActionResult Send(Message msg)
         {
-            Factory.Publish(Settings.GetFactorySettings(), "TEST", msg);
+            Factory.Publish(Settings.GetFactorySettings(), Settings.QueueName, msg);
             return View();
         }
     }
