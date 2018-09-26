@@ -1,7 +1,7 @@
-﻿using Newtonsoft.Json;
+﻿using Models;
+using Newtonsoft.Json;
 using RabbitMQ.Client;
 using System.Text;
-using Global;
 
 namespace RabbitMQLayer
 {

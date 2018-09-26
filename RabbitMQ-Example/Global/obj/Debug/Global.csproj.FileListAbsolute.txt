@@ -4,3 +4,6 @@ C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debu
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.csproj.CoreCompileInputs.cache
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.pdb
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\bin\Debug\Models.dll
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\bin\Debug\Models.pdb
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\Global\obj\Debug\Global.csproj.CopyComplete

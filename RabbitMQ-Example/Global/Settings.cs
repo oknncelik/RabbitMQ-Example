@@ -1,4 +1,6 @@
-﻿namespace Global
+﻿using Models;
+
+namespace Global
 {
     public static class Settings
     {

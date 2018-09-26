@@ -1,10 +1,8 @@
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\RabbitMQLayer.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\RabbitMQLayer.pdb
-C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Global.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Newtonsoft.Json.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\RabbitMQ.Client.dll
-C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Global.pdb
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Newtonsoft.Json.xml
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\RabbitMQ.Client.xml
@@ -13,3 +11,5 @@ C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\o
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\obj\Debug\RabbitMQLayer.csproj.CopyComplete
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\obj\Debug\RabbitMQLayer.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\obj\Debug\RabbitMQLayer.pdb
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Models.dll
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Models.pdb
