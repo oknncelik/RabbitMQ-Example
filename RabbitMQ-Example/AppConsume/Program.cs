@@ -17,15 +17,11 @@ namespace AppConsume
         }
         public static void Subscrible(string queuneName)
         {
-            IConnection connection = Factory.CreateConnection(Settings.GetFactorySettings());
+            IConnection connection = Factory.ICreateConnection(Settings.GetFactorySettings());
+            Factory.CreateQueue(queuneName);
+
             using (IModel channel = connection.CreateModel())
             {
-                channel.QueueDeclare(queue: queuneName,
-                    durable: false,
-                    exclusive: false,
-                    autoDelete: false,
-                    arguments: null);
-
                 var consumer = new EventingBasicConsumer(channel);
                 consumer.Received += (model, ea) =>
                 {

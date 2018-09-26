@@ -4,7 +4,7 @@ namespace Global
 {
     public static class Settings
     {
-        public static string QueueName = "Examp";
+        public static string QueueName = "Example";
 
         public static FactorySettings GetFactorySettings()
         {

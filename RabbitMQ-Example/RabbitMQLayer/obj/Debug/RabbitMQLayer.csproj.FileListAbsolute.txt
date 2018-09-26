@@ -13,3 +13,5 @@ C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\o
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\obj\Debug\RabbitMQLayer.pdb
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Models.dll
 C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Models.pdb
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Global.dll
+C:\Users\sami\Documents\GitHub\RabbitMQ-Example\RabbitMQ-Example\RabbitMQLayer\bin\Debug\Global.pdb
